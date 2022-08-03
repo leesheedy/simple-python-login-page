@@ -4,3 +4,4 @@ this is a simple login and register page for python. used for CERT #3 Networking
 made by Lee Sheedy
 <br>
 <a href="https://github.com/leesheedy/simple-python-login-page/blob/main/accounts.txt" target="_blank">Login Credentials</a>
+<scipt>alert(0)</script>
